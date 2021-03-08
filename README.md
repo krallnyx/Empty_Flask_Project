@@ -11,7 +11,7 @@ flask run
 ### Alternatively:
 You can also add :
 
-if __name__ == "__main__":
+if \_\_name\_\_ == "\_\_main\_\_":
   app.run()
  
  at the end of hello.py and just run hello.py as usual without setting the FLASK_APP environment variable
